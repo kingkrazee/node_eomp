@@ -20,7 +20,7 @@
             <label>
               <div class="form-field">
                 <input
-                  required
+                  required++
                   placeholder="Email"
                   class="input-field"
                   type="email" name="email"
